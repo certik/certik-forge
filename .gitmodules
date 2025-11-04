@@ -1,0 +1,4 @@
+[submodule "ledger"]
+	path = ledger
+	url = https://github.com/certik/ledger.git
+	branch = pixi
