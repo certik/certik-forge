@@ -2,3 +2,7 @@
 	path = ledger
 	url = https://github.com/certik/ledger.git
 	branch = pixi
+[submodule "shell"]
+	path = shell
+	url = https://github.com/certik/shell.git
+	branch = pixi
