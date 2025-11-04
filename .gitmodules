@@ -6,3 +6,7 @@
 	path = shell
 	url = https://github.com/certik/shell.git
 	branch = pixi
+[submodule "wasmtime"]
+	path = wasmtime
+	url = https://github.com/certik/wasmtime.git
+	branch = pixi
